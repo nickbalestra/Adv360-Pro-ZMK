@@ -20,6 +20,7 @@ There is a GUI for editing the keymap. It is available at https://kinesiscorpora
 
 ### Setup
 
+
 #### Software
 
 * Either Podman or Docker is required, Podman is preferred if both are present.
